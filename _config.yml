@@ -1,6 +1,6 @@
 name: TrepSupplyCo
 favicon: null
-layout_spectrum: 0.7641085959039629
+layout_spectrum: 1
 typography_spectrum: 0.40153199527412653
 title: TrepSupply.co
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.18390943459235132
+    - '#bf1e2d'
+    - '#225e9f'
+    - '#698dc6'
+    - '#e8785c'
+    - '#003366'
+  brandStrength: 0.375
   lightness: 0.4970276386011392
   saturation: 0.18061904842033982
   rhythmicContrast: 0.5765378603246063
